@@ -1,4 +1,8 @@
-# shellman ebook :orange_book:
+# ZShellman (`zshellman`) eBook :orange_book:
+
+Learn how to write professional Sea Shell (zsh) scripts easily using [ZShellman]() snippet in  [VS Code](https://code.visualstudio.com/).
+
+# Original Shellman eBook (`shellman-ebook`) description :orange_book:
 
 Learn how to write professional shell scripts easily using [Shellman](https://marketplace.visualstudio.com/items?itemName=Remisa.shellman) snippet in  [vscode](https://code.visualstudio.com/).
 
